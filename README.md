@@ -30,10 +30,8 @@ Bibliotecas e programas necessários para rodar a solução:
 
 Clonar repositório:
 
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
+    git clone https://github.com/csleal/checkpoint01.git
+    
 
 
 ### Referências 
