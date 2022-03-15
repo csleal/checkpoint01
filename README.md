@@ -40,4 +40,3 @@ Clonar repositório:
 * [Identificando e Tratando Outliers nos Dados com Python.](https://minerandodados.com.br/tratando-outliers-python/)
 * [Transformando dados categóricos em dados numéricos](https://medium.com/data-hackers/engenharia-de-features-transformando-dados-categ%C3%B3ricos-em-dados-num%C3%A9ricos-e5d3991df715)
 * [Regressão Linear com Sklearn: Conceito e Aplicação](https://medium.com/@lamartine_sl/regress%C3%A3o-linear-com-sklearn-modelo-de-previs%C3%A3o-de-custos-com-plano-de-sa%C3%BAde-5e963e590f4c)
-
