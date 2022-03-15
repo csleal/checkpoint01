@@ -30,7 +30,7 @@ Bibliotecas e programas necessários para rodar a solução:
 
 Clonar repositório:
 
-    git clone https://github.com/csleal/checkpoint01.git
+    git clone https://github.com/csleal/checkpoint01
     
 
 
